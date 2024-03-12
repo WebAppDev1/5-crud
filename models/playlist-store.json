@@ -1,0 +1,72 @@
+{
+  "playlistCollection": [
+    {
+      "id": "01",
+      "title": "Beethoven Sonatas",
+      "songs": [
+        {
+          "id": "03",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 5
+        },
+        {
+          "id": "07",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 4
+        },
+        {
+          "id": "10",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Beethoven Concertos",
+      "songs": [
+        {
+          "id": "07",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 17
+        },
+        {
+          "id": "08",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 25
+        },
+        {
+          "id": "09",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": "21"
+        }
+      ]
+    },
+    {
+      "id": "eb6d6eff-8bd9-470c-82c2-79adcb2b2d63",
+      "title": "Tuesday's Playlist",
+      "songs": [
+        {
+          "id": "2f8da97d-60f5-4bdf-a275-e107238f1ca3",
+          "title": "Piano Concerto 1",
+          "artist": "Beethoven",
+          "genre": "Classical ",
+          "duration": "5"
+        }
+      ],
+      "date": "2024-03-11T15:30:02.873Z"
+    }
+  ]
+}
